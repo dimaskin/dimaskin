@@ -23,3 +23,4 @@ I`m fullstack Ruby on Rails && React dev from Turkey
 ## Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/dmitriy-drachev/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/> </a>
+<a href="mailto:dmitriy.a.drachev@gmail.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/> </a>  
