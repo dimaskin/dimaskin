@@ -3,6 +3,9 @@
 I`m fullstack Ruby on Rails && React dev from Turkey
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimaskin)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimaskin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ## Languages and tools
 <p align="left">
